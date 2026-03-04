@@ -50,7 +50,3 @@ Spify is a comprehensive decentralized application that combines private messagi
 
 ## Installation
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/spify.git
-cd spify
